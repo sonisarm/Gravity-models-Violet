@@ -1,6 +1,6 @@
 # Violet connectivity
 
-Code for the paper "Connectivity in two endangered violets in the Canary Islands: how topography, temperature and water availability shape gene flow and diversity in \textit{Viola cheiranthifolia} and Viola guaxarensis"
+Code for the paper "Connectivity in two endangered violets in the Canary Islands: how topography, temperature and water availability shape gene flow and diversity in *Viola cheiranthifolia* and *Viola guaxarensis*"
 
 ## Table of contents
 0. Introduction

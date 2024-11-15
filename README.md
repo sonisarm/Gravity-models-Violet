@@ -19,7 +19,7 @@ This section provides a comprehensive script for building and evaluating gravity
 
 
 
-### 03-Climate change
+### 03-Climate modelling
 This script evaluates the impact of climate change on connectivity and gene flow across future scenarios. It integrates climate data, gene flow values, and site coordinates, processing them to derive environmental statistics for nodes and edges while incorporating topographic variables. Gravity models are applied to analyze connectivity, with comparisons between current and future scenarios to assess changes and inform potential conservation strategies.
 
 

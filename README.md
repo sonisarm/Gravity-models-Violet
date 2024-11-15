@@ -7,7 +7,7 @@ The project's specific objectives are to (1) identify correlations between genet
 Remark: The input data for the scripts in the following sections can be found in folder *00-data*.
 
 
-[hehe](https://github.com/sonisarm/grav-models-violet/blob/main/framework-connectivity-analysis.jpg)
+![framework](https://github.com/sonisarm/grav-models-violet/blob/main/framework-connectivity-analysis.jpg)
 ### 00-Sampling
 The sampling scheme used here is individual-based, differing from the population-level analyses commonly applied in gravity models for metapopulations. This approach enhances our ability to detect complex interactions of environmental variables on gene flow patterns and allows for a more precise identification of landscape factors independently influencing gene flow. 
 

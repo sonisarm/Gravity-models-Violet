@@ -4,7 +4,9 @@ This GitHub page provides a step-by-step guide to the analyses presented in the 
 
 The project's specific objectives are to (1) identify correlations between genetic diversity and environmental variables, (2) assess the functional connectivity of V. cheiranthifolia and V. guaxarensis at El Teide Summit, Tenerife, Spain, (3) determine which landscape variables influence gene flow in each species, and (4) evaluate changes in connectivity under projected climate change scenarios.
 
-![framework](https://github.com/sonisarm/grav-models-violet/blob/main/framework-connectivity-analysis.jpg)
+![framework](framework-connectivity-analysis.jpg)
+
+
 ### 00-Sampling
 The sampling scheme used here is individual-based, differing from the population-level analyses commonly applied in gravity models for metapopulations. This approach enhances our ability to detect complex interactions of environmental variables on gene flow patterns and allows for a more precise identification of landscape factors independently influencing gene flow. 
 

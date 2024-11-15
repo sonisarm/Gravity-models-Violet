@@ -6,6 +6,8 @@ The project's specific objectives are to (1) identify correlations between genet
 
 ![framework](framework-connectivity-analysis.jpg)
 
+<img src="framework-connectivity-analysis.jpg" alt="framework" width="10">
+
 
 ### 00-Sampling
 The sampling scheme used here is individual-based, differing from the population-level analyses commonly applied in gravity models for metapopulations. This approach enhances our ability to detect complex interactions of environmental variables on gene flow patterns and allows for a more precise identification of landscape factors independently influencing gene flow. 

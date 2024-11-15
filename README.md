@@ -1,4 +1,4 @@
-# Code for the following publication: "*Connectivity in two endangered violets in the Canary Islands: how topography, temperature and water availability shape gene flow and diversity in Viola cheiranthifolia and Viola guaxarensis*"
+### Code for the following publication: "*Connectivity in two endangered violets in the Canary Islands: how topography, temperature and water availability shape gene flow and diversity in Viola cheiranthifolia and Viola guaxarensis*"
 
 This GitHub page provides a step-by-step guide to the analyses presented in the publication, "*Connectivity in two endangered violets in the Canary Islands: how topography, temperature, and water availability shape gene flow and diversity in Viola cheiranthifolia and Viola guaxarensis.*" This study is part of the GENCLIMA project, which aims to evaluate functional connectivity among high-mountain and laurel forest species in the Canary Islands, with a focus on preserving genetic diversity and mitigating the impacts of climate change.
 

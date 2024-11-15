@@ -4,9 +4,7 @@ This GitHub page provides a step-by-step guide to the analyses presented in the 
 
 The project's specific objectives are to (1) identify correlations between genetic diversity and environmental variables, (2) assess the functional connectivity of V. cheiranthifolia and V. guaxarensis at El Teide Summit, Tenerife, Spain, (3) determine which landscape variables influence gene flow in each species, and (4) evaluate changes in connectivity under projected climate change scenarios.
 
-![framework](framework-connectivity-analysis.jpg)
-
-<img src="framework-connectivity-analysis.jpg" alt="framework" width="10">
+<img src="framework-connectivity-analysis.jpg" alt="framework" width="100">
 
 
 ### 00-Sampling

@@ -45,8 +45,8 @@ for (c in cmodel){
 
 #####  Load coordinates 
 pathtocsv <- "pathtocsv"
-df <- read.csv(psate0(pathtocsv, '02-grav_models/df.csv'), sep=';', header=TRUE)
-gendif <- read.csv(psate0(pathtocsv, '02-grav_models/gendif.csv'), sep=';', header=TRUE)
+df <- read.csv(psate0(pathtocsv, '00-data/df.csv'), sep=';', header=TRUE)
+gendif <- read.csv(psate0(pathtocsv, '00-data/gendif.csv'), sep=';', header=TRUE)
 
 # get coords
 coords <- df[,2:3] 

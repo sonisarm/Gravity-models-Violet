@@ -12,7 +12,15 @@ The sampling scheme used here is individual-based, differing from the population
 
 
 ### 02-Gravity models
-Functional connectivity and environmental factors influence on connectivity
+This section includes a script for constructing and evaluating gravity models to analyze genetic flow between individuals. The code processes spatial and genetic data, extracts environmental variables, evaluates variable collinearity, and builds gravity models and identifies key landscape variables influencing genetic connectivity. It also includes tools for model comparison.
+
+
+
+
+
+
+
+
 
 ### 03-Climate change
 Projected connectivity changes under future climate change scenarios
